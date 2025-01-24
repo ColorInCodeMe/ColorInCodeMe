@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @ColorInCodeMe
-- This is my new github :)
-- 👀 I’m interested in ...
-- typescript, scss, html, python, mySQL, php, react, ES6
-- 🌱 I’m currently learning ...
-- ai and machine learning
-- 💞️ I’m looking to collaborate on ...
-- multiple projects
-- 📫 How to reach me ...
-- colorincode.me coming soon
+👋 Hi, I’m @ColorInCodeMe
+We do web dev for all sorts of businesses, and assist on many projects - just reach out! 
+💞️ This page will hold future projects and a few code samples. Not all contributions are public or tied to this account. 
+Langs we love: javascript, typescript, scss, html, python, mySQL, php
+🌱We are currently learning: ai and machine learning
+📫 colorincode.me 
 
 <!---
 ColorInCodeMe/ColorInCodeMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
